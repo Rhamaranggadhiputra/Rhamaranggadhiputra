@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:ramarangga077@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ramarangga077%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:rhamaranggadh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rhamaranggadh%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rhama-rangga-dhiputra/">
     <img src="https://img.shields.io/badge/LinkedIn-Rhama%20Rangga%20Dhiputra-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
@@ -162,5 +162,5 @@ AI-powered fitness companion that uses **Google Gemini API** for workout plannin
 
 I'm open to collaboration and opportunities in AI Engineering, Machine Learning, Data Science, and Full-Stack AI Applications.
 
-- Email: **ramarangga077@gmail.com**
+- Email: **rhamaranggadh@gmail.com**
 - LinkedIn: [Rhama Rangga Dhiputra](https://www.linkedin.com/in/rhama-rangga-dhiputra/)
